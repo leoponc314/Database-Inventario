@@ -1,0 +1,2 @@
+# Este directorio guarda la base de datos SQLite local.
+# El fichero `database.sqlite` se ignora en git (ver .gitignore).
